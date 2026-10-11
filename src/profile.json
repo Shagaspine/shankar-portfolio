@@ -1,0 +1,49 @@
+{
+  "name": "Shankar Ganesh A",
+  "title": "Digital Artist & Video Editor",
+  "location": "Chennai, Tamil Nadu, India",
+  "tagline": "I turn ideas into engaging visual experiences through editing, motion, design, and creative technology.",
+  "email": "shagainsideofficial@gmail.com",
+  "whatsapp": "917200255527",
+  "profileImage": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "labels": ["VIDEO EDITING", "MOTION DESIGN", "3D", "VFX", "AI WORKFLOWS"],
+  "about": "I am a creative visual storyteller holding a Diploma in Mechanical Engineering (DME), which brings a unique structured approach to my creative workflows. Specializing in video editing, motion graphics, and 3D design...",
+  "tools": ["Premiere Pro", "After Effects", "DaVinci Resolve", "Blender", "ComfyUI", "HeyGen", "Google Flow"],
+  "links": [
+    { "title": "Portfolio", "url": "#portfolio", "icon": "Image", "primary": true },
+    { "title": "Team Shamurai Studio", "url": "https://www.behance.net/shamuracommuni", "icon": "Briefcase", "primary": true },
+    { "title": "Instagram", "url": "https://instagram.com/yourhandle", "icon": "Instagram", "primary": false },
+    { "title": "LinkedIn", "url": "https://linkedin.com/in/yourhandle", "icon": "Linkedin", "primary": false },
+    { "title": "YouTube", "url": "https://youtube.com/c/yourhandle", "icon": "Youtube", "primary": false }
+  ],
+  "services": [
+    { "title": "Video Editing", "desc": "Multicam, show editing, and cinematic cuts.", "icon": "Video" },
+    { "title": "Motion Graphics", "desc": "Dynamic typography and visual assets.", "icon": "Layers" },
+    { "title": "Graphic Design", "desc": "Logo, brand identity, and layout design.", "icon": "PenTool" },
+    { "title": "Creative AI Workflows", "desc": "Automated pipelines using local & cloud AI.", "icon": "Cpu" }
+  ],
+  "experience": [
+    {
+      "role": "Video Editor (Full-Time)",
+      "company": "Lokal",
+      "period": "Present",
+      "description": "Remote video editing, crafting engaging localized content and utilizing creative automation."
+    },
+    {
+      "role": "Founder & Creative Director",
+      "company": "Team Shamurai",
+      "period": "Previous",
+      "description": "Founded and managed a post-production video editing and visual effects agency (Currently maintained as an inactive studio brand)."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "CoimbaTourism Brand Identity",
+      "category": "Graphic Design",
+      "description": "Logo and visual asset creation for regional tourism.",
+      "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=800&q=80",
+      "link": "#"
+    }
+  ]
+}
